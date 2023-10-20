@@ -1,0 +1,8 @@
+@font-face {
+    font-family:"Roboto_Mono" ;
+    src: url("Roboto_Mono/static/RobotoMono-Bold.ttf") format("woff2");
+    src: url("Roboto_Mono/static/RobotoMono-Bold.ttf") format("woff");
+    font-size: normal;
+    font-weight: normal;
+
+}
